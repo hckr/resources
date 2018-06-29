@@ -35,3 +35,11 @@ https://wiki.haskell.org/TW-Logo-Haskell
 **#8**
 ![logo8](fp-wroclaw-logo-lambda-6.png)
 
+**#9**
+![logo9](fp-wroclaw-logo-W-lambda.png)
+
+**#10**
+![logo10](fp-wroclaw-logo-W-lambda-2.png)
+
+**#11**
+![logo11](fp-wroclaw-logo-W-lambda-3.png)
