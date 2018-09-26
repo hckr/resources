@@ -1,4 +1,4 @@
-Functional**Programming**Wroclaw**(https://www.meetup.com/pl-PL/Functional-Programming-Wroclaw)**resources
+Functional Programming Wroclaw (https://www.meetup.com/Functional-Programming-Wroclaw/) resources
 ======================================================================================================
 
 https://wiki.haskell.org/Haskell_logos
